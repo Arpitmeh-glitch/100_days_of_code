@@ -13,3 +13,14 @@ Output 2:
 Sum = 19
 
 */
+#include <stdio.h>
+int main()
+{
+    int a, b;
+    printf("Enter two numbers\n");
+    scanf("%d %d", &a, &b);
+    int sum = a + b;
+    printf("%d is your number", sum);
+
+    return 0;
+}
