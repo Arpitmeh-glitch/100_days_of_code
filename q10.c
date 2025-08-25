@@ -18,7 +18,7 @@ Output 2:fghhf
 int main()
 {
     int sec, min, hr;
-    printf("Enter seconddf");
+    printf("Enter secondd");
     scanf("%d", &sec);
     hr = sec / 3600;
     sec = sec % 3600;
