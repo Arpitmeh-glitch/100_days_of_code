@@ -9,7 +9,7 @@ Output 1:
 
 Input 2:
 7322
-Output 2:
+Output 2:fghhf
 2:2:2
 
 */
