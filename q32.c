@@ -12,10 +12,7 @@ Input 2:
 Output 2:
 Not palindrome
 
-Subbmition by Pulkit Singh
-Btech CS
-590022181
-Batch - 12
+
 */
 
 #include <stdio.h>
